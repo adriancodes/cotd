@@ -9,7 +9,7 @@ import reactMixin from 'react-mixin';
 import autobind from 'autobind-decorator';
 
 
-var base = Rebase.createClass(database)
+var base = Rebase.createClass(database);
 var Router = ReactRouter.Router;
 var Route = ReactRouter.Route;
 var History = ReactRouter.History;
